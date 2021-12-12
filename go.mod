@@ -1,4 +1,4 @@
-module sysintelligent.com/hello-go-module
+module github.com/sysintelligent/hello-go-module
 
 go 1.17
 
